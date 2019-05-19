@@ -1,6 +1,2 @@
-{
- "cells": [],
- "metadata": {},
- "nbformat": 4,
- "nbformat_minor": 2
-}
+from Adversary.adversary import Adversary
+from Adversary.attacks import *
